@@ -1,11 +1,12 @@
-# Fractral-explorer
-Interactive fractal tree and Sierpinski triangle generator built with HTML5 Canvas and JavaScript.
 # Fractal Explorer
 
-I made this interactive fractal generator for Hack Club Crescent using HTML5 Canvas and JavaScript.
+An interactive web application built with HTML5 Canvas and JavaScript that generates recursive fractal patterns in real time.
 
-### Features:
-- **Recursive Fractal Tree:** Change the branch split angle and recursion depth using sliders.
-- **Sierpinski Triangle:** Switch mode from the dropdown to generate a recursive geometric triangle.
-- **Custom Colors:** Pick any color for the fractal drawing.
-- 
+### Controls:
+- **Fractal Type:** Switch between a Recursive Fractal Tree and a Sierpinski Triangle.
+- **Depth Slider:** Adjust the recursion depth to increase or decrease detail.
+- **Color Picker:** Choose custom colors for the drawing.
+
+### How to Run:
+1. Open the live demo link in any browser.
+2. Move the sliders to interact with the fractal generator.
